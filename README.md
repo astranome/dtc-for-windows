@@ -1,6 +1,7 @@
 dtc
 ===
-
+Device Tree Compiler for Windows with precompiled dtc.exe
+====
 Device Tree Compiler for Windows
 
 The Device Tree Compiler (DTC) is the toolchain for building device tree
